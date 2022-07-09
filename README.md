@@ -15,6 +15,11 @@ Skills: java /c / JS / HTML / CSS
 
 <p align="left">
 <a href="https://twitter.com/@tejasmusale10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tejasmusale10" height="30" width="40" /></a>
-<a href="https://instagram.com/musale_tejas_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musale_tejas_001" height="30" width="40" /></a>
+<a href="https://instagram.com/musale_tejas_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musale_tejas_001" height="30" width="40" />
+<a href="https://github.com/MusaleTejas " target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+
+
 </p>
 

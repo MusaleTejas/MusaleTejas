@@ -1,6 +1,6 @@
 ### Hi there 👋, Musale Tejas 
 #### Design and Development 
-![Design and Development ](https://pbs.twimg.com/profile_images/1431914335119425548/NBvlsNdl_400x400.jpg)
+![Design and Development ](https://github.com/MusaleTejas/MusaleTejas/blob/main/_Musale%20Tejas%20.png)
 
 I'm Tejas from india , and i do content on design and developement . i really enjoy learning web developement like html ,css ,js as well as work in wordpress. I work with ui ,ux and design in general .
 

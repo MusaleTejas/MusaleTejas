@@ -1,4 +1,4 @@
-![Design and Development ](https://github.com/MusaleTejas/MusaleTejas/blob/main/_Musale%20Tejas%20.png)
+
 
 ### Hi there 👋, Musale Tejas 
 I'm Tejas from india , and i do content on design and developement . i really enjoy learning web developement like html ,css ,js as well as work in wordpress. I work with ui ,ux and design in general .

@@ -43,15 +43,6 @@ I'm most comfortable with **Python, SQL, Flask, Node.js, MongoDB,** and **Tablea
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusaleTejas&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaleTejas&theme=default&hide_border=true&layout=compact)
-
-</div>
-
 ---
 
 <div align="center">

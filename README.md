@@ -58,10 +58,4 @@ I'm always exploring the intersection of **data, systems, and product** — and 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MusaleTejas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusaleTejas&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MusaleTejas&theme=tokyonight&hide_border=true" />
 
-
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer"/>
-</div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Tejas%20Musale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+
 
 <a href="https://www.linkedin.com/in/tejas-musale/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/22888521/tejas-musale"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
@@ -63,20 +63,6 @@ I'm always exploring the intersection of **data, systems, and product** — and 
 </div>
 
 <br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MusaleTejas&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Graph
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/MusaleTejas/MusaleTejas/output/github-contribution-grid-snake.svg" alt="snake animation" />
 

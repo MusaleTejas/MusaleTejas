@@ -1,50 +1,91 @@
 <div align="center">
 
-# Hi, I'm Tejas Musale 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Tejas%20Musale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-**Data & Software Engineer** — turning ideas into working products with code and data.
+<a href="https://www.linkedin.com/in/tejas-musale/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/22888521/tejas-musale"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://x.com/TejasMusale10"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:tejasmusale830@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-musale/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22888521/tejas-musale)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/TejasMusale10)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tejasmusale830@gmail.com)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1BFFFF&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+full-stack+apps+that+scale;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-### About
+## 👨‍💻 About
 
 I enjoy working across the stack — building full-stack applications, analyzing data, and mentoring engineering teams. My focus is on writing code that's functional, maintainable, and easy for others to use.
 
-I'm most comfortable with **Python, SQL, Flask, Node.js, MongoDB,** and **Tableau**, and I'm always looking for the next problem worth solving.
+I'm always exploring the intersection of **data, systems, and product** — and looking for the next interesting problem to solve.
 
----
+<br/>
 
-### Tech Stack
-
-**Languages**
-`Python` `Java` `C / C++` `JavaScript` `PHP` `R`
-
-**Web & Backend**
-`Node.js` `Flask` `React` `Next.js` `Tailwind CSS` `HTML5`
-
-**Data & ML**
-`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch` `Matplotlib` `MLflow`
-
-**Databases**
-`PostgreSQL` `MySQL` `MongoDB` `Firebase`
-
-**Cloud & DevOps**
-`AWS` `Google Cloud` `Docker` `Kubernetes` `Git` `GitLab CI`
-
-**Tools**
-`Figma` `Canva` `Postman` `Power BI` `Jira`
-
----
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
-<sub>Thanks for stopping by ⭐</sub>
+
+**Languages & Web**
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,php,r,html,css&theme=dark" />
+
+**Frameworks & Frontend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,flask,react,nextjs,tailwind&theme=dark" />
+
+**Data & Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,aws,gcp,docker,kubernetes&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,jira&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MusaleTejas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusaleTejas&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MusaleTejas&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MusaleTejas&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MusaleTejas/MusaleTejas/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+<sub>⚙️ Generated automatically via <a href="https://github.com/Platane/snk">Platane/snk</a> — requires a one-time GitHub Actions setup (see note below).</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer"/>
 </div>

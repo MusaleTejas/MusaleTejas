@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Tejas%20Musale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://www.linkedin.com/in/tejas-musale/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/22888521/tejas-musale"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
@@ -55,7 +55,18 @@ I'm always exploring the intersection of **data, systems, and product** — and 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MusaleTejas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusaleTejas&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MusaleTejas&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+#
+
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer"/>
+</div>

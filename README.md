@@ -60,17 +60,7 @@ I'm always exploring the intersection of **data, systems, and product** — and 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MusaleTejas&theme=tokyonight&hide_border=true" />
 
-</div>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/MusaleTejas/MusaleTejas/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-
-
-</div>
-
-<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer"/>

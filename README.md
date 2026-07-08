@@ -80,7 +80,7 @@ I'm always exploring the intersection of **data, systems, and product** — and 
 
 <img src="https://raw.githubusercontent.com/MusaleTejas/MusaleTejas/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
-<sub>⚙️ Generated automatically via <a href="https://github.com/Platane/snk">Platane/snk</a> — requires a one-time GitHub Actions setup (see note below).</sub>
+
 
 </div>
 
